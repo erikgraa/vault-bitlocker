@@ -1,1 +1,1 @@
-provider "vault" {}
+provider "vault" { }
